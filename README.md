@@ -1,0 +1,2 @@
+# xoops-theme
+Xoops Theme
