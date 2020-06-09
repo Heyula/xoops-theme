@@ -31,7 +31,7 @@
 			<div class="carousel-item">
 				  <div class="p-3"> 
 				  <h3 class="mb-3 text-white text-uppercase"><font color="#ff9d0b">Database Driven</font></h3>
-					<p class="text-white op-8"><img src="<{xoImgUrl}>/images/database.png">XOOPS uses a relational database (currently MySQL) to store data required for running a web-based content management system.</p>
+					<p class="text-white op-8"><img src="<{xoImgUrl}>/images/database.png">XOOPS users a relational database (currently MySQL) to store data required for running a web-based content management system.</p>
 				  </br>
 				  </div>
 			</div>
